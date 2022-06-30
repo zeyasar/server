@@ -65,3 +65,6 @@ py manage.py runserver  # or;
 python manage.py runserver  # or;
 python3 manage.py runserver
 ```
+
+### For Deployment
+https://devcenter.heroku.com/articles/deploying-python
